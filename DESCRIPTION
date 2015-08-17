@@ -1,0 +1,8 @@
+Package: MSM
+Title: Multiple state models
+Version: 1.0
+Authors@R: person("Nathan", "Esau", email = "nesau@sfu.ca", role = c("aut", "cre"))
+Description: Implements various multiple state models described in Actuarial Mathematics for Life Contingent Risks.
+Depends: R (>= 3.2.1)
+License: GPL-2
+LazyData: true
