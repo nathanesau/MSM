@@ -16,48 +16,48 @@ A + D * c^(x + t), function (t = 0, x = 0, y = 0)
 5 * 10^(-5) * t^0))  
   .. ..$ :function (t = 0, x = 0, y = 0, A = 1e-04, B = 3e-04, c = 1.075)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 104 27 105 33 27 33 104 105
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0, A = 1e-04, D = 0.00035, c = 1.075)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 106 27 107 33 27 33 106 107
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 108 27 109 37 27 37 108 109
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 110 27 111 25 27 25 110 111
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0, muxt = list(function (t = 0, x = 0, y = 0) 
 0 * t, function (t = 0, x = 0, y = 0) 
 0 * t, function (t = 0, x = 0, y = 0) 
 0 * t))  
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 114 27 115 25 27 25 114 115
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 116 27 117 25 27 25 116 117
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 118 27 119 25 27 25 118 119
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 120 27 121 25 27 25 120 121
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0, muxt = list(function (t = 0, x = 0, y = 0) 
 0 * t, function (t = 0, x = 0, y = 0) 
 0 * t, function (t = 0, x = 0, y = 0) 
 0 * t))  
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 124 27 125 25 27 25 124 125
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 126 27 127 25 27 25 126 127
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 128 27 129 25 27 25 128 129
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0)  
   .. .. ..- attr(*, "srcref")=Class 'srcref'  atomic [1:8] 130 27 131 25 27 25 130 131
-  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x00000000139d72e0> 
+  .. .. .. .. ..- attr(*, "srcfile")=Classes 'srcfilecopy', 'srcfile' <environment: 0x1de5368> 
   .. ..$ :function (t = 0, x = 0, y = 0, muxt = list(function (t = 0, x = 0, y = 0) 
 0 * t, function (t = 0, x = 0, y = 0) 
 0 * t, function (t = 0, x = 0, y = 0) 

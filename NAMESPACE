@@ -3,7 +3,7 @@
 export(Ax)
 export(Qxt.diag)
 export(adm)
-export(ax)
+export(annx)
 export(cfm)
 export(common)
 export(crit)
