@@ -250,7 +250,7 @@ Ax <- function(object, n=10, x=0, h=1/12, delta=log(1.05),
         N, N, byrow=TRUE)
     }
     tPx.all[[1]] <- tPx.all[[1]] %*% Qxt.vals
-    
+    it <- n/h 
     for(i in 1:it) {
         t <- i*h
         
